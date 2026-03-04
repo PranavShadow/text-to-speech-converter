@@ -21,7 +21,7 @@ https://pranavshadow.github.io/text-to-speech-converter/
 
 Text to Speech Converter Interface
 
-<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/4547a4ed-7ed3-4d69-8886-5e9d7ed74be3" />
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/7de65d6a-4622-4658-86df-2ddce223a7bd" />
 
 
 
